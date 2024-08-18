@@ -1,0 +1,7 @@
+C:\Users\Mevlüt\source\repos\PropertyKavrami\PropertyKavrami\bin\Debug\PropertyKavrami.exe.config
+C:\Users\Mevlüt\source\repos\PropertyKavrami\PropertyKavrami\bin\Debug\PropertyKavrami.exe
+C:\Users\Mevlüt\source\repos\PropertyKavrami\PropertyKavrami\bin\Debug\PropertyKavrami.pdb
+C:\Users\Mevlüt\source\repos\PropertyKavrami\PropertyKavrami\obj\Debug\PropertyKavrami.csproj.AssemblyReference.cache
+C:\Users\Mevlüt\source\repos\PropertyKavrami\PropertyKavrami\obj\Debug\PropertyKavrami.csproj.CoreCompileInputs.cache
+C:\Users\Mevlüt\source\repos\PropertyKavrami\PropertyKavrami\obj\Debug\PropertyKavrami.exe
+C:\Users\Mevlüt\source\repos\PropertyKavrami\PropertyKavrami\obj\Debug\PropertyKavrami.pdb

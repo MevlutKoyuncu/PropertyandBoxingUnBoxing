@@ -1,0 +1,7 @@
+C:\Users\Mevlüt\source\repos\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe.config
+C:\Users\Mevlüt\source\repos\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe
+C:\Users\Mevlüt\source\repos\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.pdb
+C:\Users\Mevlüt\source\repos\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.AssemblyReference.cache
+C:\Users\Mevlüt\source\repos\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Mevlüt\source\repos\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.exe
+C:\Users\Mevlüt\source\repos\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.pdb

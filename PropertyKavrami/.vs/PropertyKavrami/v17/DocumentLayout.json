@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PropertyKavrami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2538929-6250-4475-BF9A-07E64FA8EDA9}|PropertyKavrami\\PropertyKavrami.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\propertykavrami\\propertykavrami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2538929-6250-4475-BF9A-07E64FA8EDA9}|PropertyKavrami\\PropertyKavrami.csproj|solutionrelative:propertykavrami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2538929-6250-4475-BF9A-07E64FA8EDA9}|PropertyKavrami\\PropertyKavrami.csproj|c:\\users\\mevl\u00FCt\\source\\repos\\propertykavrami\\propertykavrami\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2538929-6250-4475-BF9A-07E64FA8EDA9}|PropertyKavrami\\PropertyKavrami.csproj|solutionrelative:propertykavrami\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PropertyKavrami\\PropertyKavrami\\Insan.cs",
+              "RelativeDocumentMoniker": "PropertyKavrami\\Insan.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PropertyKavrami\\PropertyKavrami\\Insan.cs",
+              "RelativeToolTip": "PropertyKavrami\\Insan.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:52:05.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PropertyKavrami\\PropertyKavrami\\Program.cs",
+              "RelativeDocumentMoniker": "PropertyKavrami\\Program.cs",
+              "ToolTip": "C:\\Users\\Mevl\u00FCt\\source\\repos\\PropertyKavrami\\PropertyKavrami\\Program.cs",
+              "RelativeToolTip": "PropertyKavrami\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:36:55.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
